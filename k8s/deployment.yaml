@@ -23,7 +23,7 @@ spec:
    spec:
      containers:
        - name: product-service
-         image: jisungcho/product-service:sha-640086c
+         image: jisungcho/product-service:sha-e1df77f
          imagePullPolicy: Always
          ports:
            - containerPort: 8081
